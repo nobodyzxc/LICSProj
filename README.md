@@ -1,3 +1,5 @@
 # Simple Scheme Evaluator
 
-my "Logic for Computer Science" final project. :3
+my little "Logic for Computer Science" final project.
+
+wait for the tokenizer and parser. :3
